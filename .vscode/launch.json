@@ -8,7 +8,7 @@
             "type": "node",
             "name": "Run Current File",
             "request": "launch",
-            "program": "${workspaceFolder}\\sem2\\zad1.cpp"
+            "program": "C:\\Users\\jopa pc\\Documents\\GitHub\\pakdz\\sem2\\zad1.cpp>"
         }
     ]
 }
